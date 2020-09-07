@@ -1,0 +1,135 @@
+\documentclass{article}
+\usepackage{xcolor}
+\usepackage[linesnumbered,ruled,vlined]{algorithm2e}
+\usepackage{enumerate}
+\usepackage{amsmath}
+
+\title{Homeork1}
+\author{Kaymon McCain}
+
+%%% Coloring the comment as blue
+\newcommand\mycommfont[1]{\footnotesize\ttfamily\textcolor{blue}{#1}}
+\SetCommentSty{mycommfont}
+
+\SetKwInput{KwInput}{Input}                % Set the Input
+\SetKwInput{KwOutput}{Output}              % set the Output
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+  \item Question:
+  \begin{enumerate}[(a)]
+    \item $\frac{35}{5}$ = 7
+
+    \ T(n) = $C_{op}C(n)$
+
+    \ C(n) = $\frac{1}{3}n^3$
+
+    \  $\frac{T(7n)}{T(n)} \approx \frac{C_{op}(7n)}{C_{op}C(n)} \approx \frac{\frac{1}{3}(7n)^3}{\frac{1}{3}n^3} \approx 343$ times
+
+    \item
+    $T_{old}(n_{1}) \approx \frac{1}{3}n_{1}^3$
+
+    $T_{new}(n_{2}) \approx \frac{\frac{1}{3}n_{2}^3}{25}$
+
+    $\sqrt{25} \approx \frac{n_{2}}{n_{1}}$
+
+  \end{enumerate}
+
+  \item Question:
+  \begin{enumerate}[(a)]
+    \item they are equal grouth $n^2+n = 2000n^2$
+
+    \item $100n^2<0.01n^3$
+
+    \item $log_{2}(n) = ln(n)$
+
+    \item $log_{2}^{2}(n)>log_{2}(n)^2$
+
+    \item $2^{n-1} = 2^n$
+
+    \item $(n-1)! =n!$
+
+  \end{enumerate}
+  \item Question:
+  \begin{enumerate}[(a)]
+    \item $x(n-1)+3=x(n)$
+
+          $x(n-2)+3+3...$
+
+          $x(n-k)+3k$
+
+          $n-k=1$ $k=n-1$
+
+          $3(n-1)+3=x(n)$
+
+          $O(n)$
+
+    \item $4x(n-1)+7=x(n)$
+
+          $3[3x(n-2)]+7+7...$
+
+          $3^{k}x(n-k)+7k$
+
+          $n-k=0$ $n=k$
+
+          $3^{n}8+7n$
+
+          $O(3^n)$
+
+    \item $x(n-1)+n^2=x(n)$
+
+          $x(x-2)+n^2+(n-1)^2$
+
+          $x(x-3)+n^2+(n-2)+(n-1)^2...$
+
+          $x(n-k)+\sum_{k-1}^{j=0}(n-j)^2$
+
+          $n-k=0$ $n=k$
+
+          $9+n*n^2$
+
+          $O(n^3)$
+
+    \item
+
+    \item
+
+
+
+
+
+  \end{enumerate}
+
+  \item Question:
+  \begin{enumerate}[(a)]
+    \item
+    This algorithm starts with an empty array called count[] and my A[]= 60,35,81,98,14,47.
+    This algorithem compares on the if statement $A[i] < A[j]$. By using this kind of if statement
+    we will have counts first pass through the loop as count[i] = 3,0,1,1,0,0. Basecally count is only storing the index which the sorted array needs so each integer will be placed where it belongs. In the end of the loop count will be count[]= 3,1,4,5,0,2. Finally, the sorted array S[] will be sorted based on count[] list of index.
+    \item
+    No it is not stable. If we had integers that equal it woulden't work.
+    \item No because there are two arays.
+
+  \end{enumerate}
+  \item Question:
+
+  $5lg(n+100)^{10}, ln^2(n), \sqrt[3]{n}, 0.001n^4+3n^3+1, 3^n, 2^{2n}, (n-2)!$
+
+  \item Question:
+  \begin{enumerate}[(a)]
+
+    \item 2 for the first question, and 12 for the second question.
+
+    \item It will be $\frac{1}{9}$ for the worst case because  $\binom{10}{2}=45$ and you have 5 best case. For the average case $\frac{3}{9}$
+
+
+  \end{enumerate}
+
+\end{enumerate}
+
+
+
+
+\end{document}
