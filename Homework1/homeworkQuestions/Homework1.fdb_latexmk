@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1599262709 "Homework1.tex" "Homework1.pdf" "Homework1" 1599444083
+["pdflatex"] 1599492629 "Homework1.tex" "Homework1.pdf" "Homework1" 1599492630
   "C:/Users/mkaym/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1598666138 10050466 72a47940487c0efb2bf222515e658a84 ""
-  "C:/Users/mkaym/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1598925751 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/mkaym/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1599445680 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233955448 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
@@ -44,9 +44,9 @@
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/tex/latex/tools/enumerate.sty" 1580648486 3469 19b6cb25f21abe53fb90b9fe27615441 ""
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1580648486 4546 3e6071704acf4f66392376b7b66ae02c ""
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
-  "Homework1.aux" 1599262709 45 9108cb1e5d0715b696fc51716bdec3e1 "pdflatex"
-  "Homework1.tex" 1599263015 2933 56d42294237c217ab7f0b1d5562d863b ""
+  "Homework1.aux" 1599492630 45 9108cb1e5d0715b696fc51716bdec3e1 "pdflatex"
+  "Homework1.tex" 1599447693 3068 56d42294237c217ab7f0b1d5562d863b ""
   (generated)
-  "Homework1.log"
   "Homework1.aux"
   "Homework1.pdf"
+  "Homework1.log"

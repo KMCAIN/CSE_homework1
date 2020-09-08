@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.28)  4 SEP 2020 18:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.28)  7 SEP 2020 10:30
 entering extended mode
 **./Homework1.tex
 (Homework1.tex
@@ -201,7 +201,7 @@ ii
 (Homework1.aux) ) 
 Here is how much of TeX's memory you used:
  2957 strings out of 481212
- 41931 string characters out of 2905973
+ 42061 string characters out of 2905973
  299435 words of memory out of 3000000
  18565 multiletter control sequences out of 15000+200000
  539251 words of font info for 44 fonts, out of 3000000 for 9000
@@ -220,7 +220,7 @@ fb><C:/Users/mkaym/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmr7.pfb><C:/Users/mkaym/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb><C:/Users/mkaym/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmsy7.pfb>
-Output written on Homework1.pdf (2 pages, 116408 bytes).
+Output written on Homework1.pdf (2 pages, 116372 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
