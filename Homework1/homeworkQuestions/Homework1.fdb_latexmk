@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1599576705 "Homework1.tex" "Homework1.pdf" "Homework1" 1599576784
+["pdflatex"] 1599577763 "Homework1.tex" "Homework1.pdf" "Homework1" 1599577764
   "C:/Users/mkaym/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1598666138 10050466 72a47940487c0efb2bf222515e658a84 ""
   "C:/Users/mkaym/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1599445680 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -45,8 +45,8 @@
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/tex/latex/tools/enumerate.sty" 1580648486 3469 19b6cb25f21abe53fb90b9fe27615441 ""
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1580648486 4546 3e6071704acf4f66392376b7b66ae02c ""
   "C:/Users/mkaym/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
-  "Homework1.aux" 1599576705 45 9108cb1e5d0715b696fc51716bdec3e1 "pdflatex"
-  "Homework1.tex" 1599576704 3660 a657246acfadde541ef7b73cf6ec00ee ""
+  "Homework1.aux" 1599577763 45 9108cb1e5d0715b696fc51716bdec3e1 "pdflatex"
+  "Homework1.tex" 1599577762 3648 ad18ad064a1c3696953c7209869e1304 ""
   (generated)
   "Homework1.pdf"
   "Homework1.log"
